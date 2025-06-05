@@ -19,7 +19,7 @@ This project includes **one Jupyter notebooks**:
 
 ##  Dataset
 
-The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Data Set**, which contains:
+The dataset used is the **Breast Cancer Wisconsin (Diagnostic) dataset**, which contains:
 
 - Features computed from digitized images of breast mass (e.g., radius, texture, perimeter, area, smoothness).
 - Target variable `diagnosis`:
